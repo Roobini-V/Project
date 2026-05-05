@@ -1,0 +1,4 @@
+[
+    {"loginiduser": "standard_user", "loginidpass": "secret_sauce"},
+    {"loginiduser": "performance_glitch_user", "loginidpass": "secret_sauce"}
+]
